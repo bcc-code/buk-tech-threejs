@@ -1,5 +1,5 @@
-# 3d-graph-visualiser
-A three.js project to help visualise graph databases
+# BUK Tech - Three.js
+A collection of Three.js project examples
 
 ## Running the projects
 
